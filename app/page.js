@@ -13,8 +13,8 @@ export default function Home() {
                 <Link href="/github"><button className='bg-purple-500 rounded-lg shadow-lg p-3 py-1 font-bold text-white'>GitHub</button></Link>
             </div>
          </div>
-         <div className="flex justify-start relative w-[500px] h-[400px]">
-          <Image className="mix-blend-darken" alt="url-vector-image" src={"/vector.jpg"} fill={true}/>
+         <div className="flex justify-start relative ">
+          <Image className="mix-blend-darken w-[500px] h-[400px]" alt="url-vector-image" src={"/vector.jpg"} fill={true} />
          </div>
       </section>
     </main>

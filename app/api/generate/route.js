@@ -3,7 +3,6 @@ import clientPromise from "@/lib/mongodb"
 export async function POST(request) {
 
     const body = await request.json()
-    console.log(body)
     const client = await clientPromise;
     const db = client.db("bitlinks")
     const collection = db.collection("url")

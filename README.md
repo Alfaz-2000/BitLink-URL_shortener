@@ -35,3 +35,6 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 # BitLink-URL_shortener
+
+
+## ther is two fildes in ui you fill and it save it in DB also it show the list when save it also the next time you vist ui stay empty but if remember the shorturl which you created earliy just after 3000/has you will come to know
